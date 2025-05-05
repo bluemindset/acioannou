@@ -1,0 +1,9 @@
+/* Custom styles */
+body {
+    scroll-behavior: smooth;
+}
+
+.h-128 {
+    height: 32rem;
+    /* 512px */
+}
