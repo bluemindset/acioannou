@@ -7,3 +7,8 @@ body {
     height: 32rem;
     /* 512px */
 }
+
+.navbar-active {
+    color: #2563eb;
+    font-weight: 600;
+}
